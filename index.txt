@@ -1,0 +1,30 @@
+problem: pick element arr{i} and insrt it into sorted sequence in the array from 0 to i-1
+
+
+Array No= {19, 3, 7, 5, 18, 2}
+            0  1  2  3  4   5
+
+
+ step 1: get your array no= 19, 3, 7, 5, 18, 2
+
+ step 2: we sort this array in its sorted sequence
+
+ step 3: 3, 19, 7, 5, 18, 2
+
+ step 3 again: 3, 7, 19, 5, 18, 2
+
+ step 4: we continue this steps till they are sorted
+
+ step 5: 3, 7, 5, 18, 2, 19
+
+ step 6: 3, 5, 7, 2 , 18, 19
+
+ step 7: 3, 5, 2, 7, 18, 19
+
+ step 8: 3, 2, 5, 7, 18, 19
+
+ step 9: 2, 3, 5, 7, 18, 19
+
+ Array No= 2, 3, 5, 7, 18, 19
+
+ 
